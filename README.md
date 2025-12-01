@@ -113,7 +113,7 @@ It **prepares you to pass CTFL on your first attempt** and become a confident, s
 # 🔗 Useful URLs  
 - **Official Website:** https://www.icertglobal.com  
 - **CTFL Program Link:** https://www.icertglobal.com/quality-management/ctfl  
-- **QA/Testing Articles & Blogs:** https://www.icertglobal.com/blog  
+- **QA/Testing Articles & Blogs:** https://www.icertglobal.com/blog/accelerate-your-career-in-software-testing-with-ctfl-certification-blog  
 
 ---
 
